@@ -2,7 +2,7 @@
 <resources>
 
     <!-- Text Actions -->
-    <string name="text_actions">Acciones de texto</string>
+    <string name="text_actions">Acciones</string>
     <string name="expand_selection">Ampliar selección</string>
 	<string name="copied_to_clipoard">El texto se ha copiado al portapapeles.</string>
  

@@ -141,7 +141,7 @@
     <string name="completion_java_source_version_title">Versión de origen</string>
 
     <!-- about page -->
-    <string name="settings_about_us_title">Acerca de nosotros</string>
+    <string name="settings_about_us_title">Acerca de</string>
     <string name="settings_about_us_desc">Más información sobre los desarrolladores.</string>
     <string name="app_description">IDE potente y ligero para el desarrollo de aplicaciones de Android al alcance de su bolsillo.</string>
     <string name="app_version">Versión</string>
